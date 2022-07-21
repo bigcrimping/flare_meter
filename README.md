@@ -3,13 +3,21 @@ An Arduino Nano 33 IoT based gadget which inteorgates the latest xray flare clas
 
 Inspired by a burst of transmission errors picked up in my day job we linked back to a coronal mass ejection I wanted something to show me what the current state of solar flares is.
 
-The data is proviided by NOAA in JSON via the website here: https://services.swpc.noaa.gov/json/
-
 ![image](https://user-images.githubusercontent.com/74270551/180198689-856a7521-7ceb-471e-8b40-b6d9c847180a.png)
 
+The data is proviided by NOAA in JSON via the website here: https://services.swpc.noaa.gov/json/
+
+![image](https://user-images.githubusercontent.com/74270551/180202599-106be046-0b00-4df6-8d66-06493c564c13.png)
+
+The data presented is from the GOES 16 Satelite. 
 
 Using (the excelent) X.27 Stepper motor interface from snafu: https://www.tindie.com/products/boffin/serial-x27-stepper-motor-gauge/
 
+The code is an almagamation from the following sources
+
+WiFi https://www.arduino.cc/reference/en/libraries/wifinina/wifi.beginap/
+SSL https://www.arduino.cc/reference/en/libraries/wifinina/client.connectssl/
+JSON Handling https://arduinojson.org/v6/api/json/deserializejson/
 
 ## Project Code
 
