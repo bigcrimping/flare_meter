@@ -55,3 +55,11 @@ Fixing required
 
 10 x M3 nuts
 10 x M3x12mm cap head bolts
+
+## Dial Artwork
+
+Artwork can be found in PDF format here: https://github.com/bigcrimping/flare_meter/tree/main/dial_artwork
+
+![image](https://user-images.githubusercontent.com/74270551/180205061-77064ea2-c936-4e92-8c4f-a9e9ee8dcf58.png)
+
+There are a few variations
