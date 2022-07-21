@@ -5,7 +5,8 @@ Inspired by a burst of transmission errors picked up in my day job we linked bac
 
 The data is proviided by NOAA in JSON via the website here: https://services.swpc.noaa.gov/json/
 
-INSERT PICTURE OF THE DEVICE
+![image](https://user-images.githubusercontent.com/74270551/180198689-856a7521-7ceb-471e-8b40-b6d9c847180a.png)
+
 
 Using (the excelent) X.27 Stepper motor interface from snafu: https://www.tindie.com/products/boffin/serial-x27-stepper-motor-gauge-pcb-only/
 
