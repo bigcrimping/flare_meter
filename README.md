@@ -10,12 +10,23 @@ INSERT PICTURE OF THE DEVICE
 Using (the excelent) X.27 Stepper motor interface from snafu: https://www.tindie.com/products/boffin/serial-x27-stepper-motor-gauge-pcb-only/
 
 
-Project Files 
+## Project Code
 
 INSERT LINK to CODE
 
+## Wiring
+
 INSERT DIAGRAM OF WIRING
 
-INSERT MECHANICAL DRAWING
+## Mechanical Files
 
 ![image](https://user-images.githubusercontent.com/74270551/180155837-8c465e86-1bfe-498d-afaa-9dbd630525f7.png)
+
+The design comprises (from left to right) a 
+Front Plate
+Spacer
+Back Plate (which mounts the motor)
+Chassis
+Rear Cover
+
+The needle passes through the spacer to connect to the motor, the Arudino mounts to the Rear Cover with a dab of glue 
