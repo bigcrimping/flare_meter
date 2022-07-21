@@ -62,4 +62,4 @@ Artwork can be found in PDF format here: https://github.com/bigcrimping/flare_me
 
 ![image](https://user-images.githubusercontent.com/74270551/180205061-77064ea2-c936-4e92-8c4f-a9e9ee8dcf58.png)
 
-There are a few variations
+There are a few variations to choose from
