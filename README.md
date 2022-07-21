@@ -17,6 +17,7 @@ The code is an almagamation from the following sources
 
 WiFi https://www.arduino.cc/reference/en/libraries/wifinina/wifi.beginap/
 SSL https://www.arduino.cc/reference/en/libraries/wifinina/client.connectssl/
+
 JSON Handling https://arduinojson.org/v6/api/json/deserializejson/
 
 ## Project Code
