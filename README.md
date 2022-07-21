@@ -50,6 +50,7 @@ Chassis
 Rear Cover
 
 The needle passes through the spacer to connect to the motor, the Arudino mounts to the Rear Cover with a dab of glue 
+
 The M3 nuts should be a press fit into the mounting holes but may require a dab of super glue.
 
 Fixing required 
