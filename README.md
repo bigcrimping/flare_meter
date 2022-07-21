@@ -54,6 +54,7 @@ The needle passes through the spacer to connect to the motor, the Arudino mounts
 Fixing required 
 
 10 x M3 nuts
+
 10 x M3x12mm cap head bolts
 
 ## Dial Artwork
