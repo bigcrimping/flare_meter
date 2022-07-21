@@ -1,4 +1,4 @@
-# flare_meter
+# Xray Flare Meter
 An Arduino Nano 33 IoT based gadget which inteorgates the latest xray flare class information from NOAA GOES Satelite and shows the result visually.
 
 Inspired by a burst of transmission errors picked up in my day job we linked back to a coronal mass ejection I wanted something to show me what the current state of solar flares is.
