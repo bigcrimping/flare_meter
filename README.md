@@ -19,9 +19,11 @@ You will need to add your WiFi details to the arduino_secrets.h file for the net
 
 ## Wiring
 
-The wiring is per the code
-![image](https://user-images.githubusercontent.com/74270551/180201465-8e81591a-bcb6-4230-ba54-b1fda24936fd.png)
+The wiring is as below, hook up for power/gnd/TX
 
+![image](https://user-images.githubusercontent.com/74270551/180201866-a9b74970-905d-4301-a8f7-3036af4c13be.png)
+
+Inside the chassis it looks like the below
 
 ![image](https://user-images.githubusercontent.com/74270551/180200741-4fa06252-f080-486e-9b4a-64a945a73adb.png)
 
