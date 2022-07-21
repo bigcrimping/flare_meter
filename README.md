@@ -11,3 +11,4 @@ INSERT DIAGRAM OF WIRING
 
 INSERT MECHANICAL DRAWING
 
+![image](https://user-images.githubusercontent.com/74270551/180155837-8c465e86-1bfe-498d-afaa-9dbd630525f7.png)
