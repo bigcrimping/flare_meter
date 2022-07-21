@@ -57,6 +57,8 @@ Fixing required
 
 10 x M3x12mm cap head bolts
 
+STLs for printing available here: https://github.com/bigcrimping/flare_meter/tree/main/mechanics
+
 ## Dial Artwork
 
 Artwork can be found in PDF format here: https://github.com/bigcrimping/flare_meter/tree/main/dial_artwork
